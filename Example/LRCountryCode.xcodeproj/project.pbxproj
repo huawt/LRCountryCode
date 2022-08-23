@@ -30,8 +30,8 @@
 /* Begin PBXFileReference section */
 		0A6E890606EAA252AB14D196 /* Pods-LRCountryCode_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LRCountryCode_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LRCountryCode_Tests/Pods-LRCountryCode_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		15AC474D2503088596D121FD /* Pods-LRCountryCode_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LRCountryCode_Example.debug.xcconfig"; path = "Target Support Files/Pods-LRCountryCode_Example/Pods-LRCountryCode_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		1821F050584258981B32FB71 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		2CF77994F6978FDFEBFEED64 /* LRCountryCode.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LRCountryCode.podspec; path = ../LRCountryCode.podspec; sourceTree = "<group>"; };
+		1821F050584258981B32FB71 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		2CF77994F6978FDFEBFEED64 /* LRCountryCode.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LRCountryCode.podspec; path = ../LRCountryCode.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* LRCountryCode_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LRCountryCode_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		A7CA2464106695F6AE75B93E /* Pods-LRCountryCode_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LRCountryCode_Example.release.xcconfig"; path = "Target Support Files/Pods-LRCountryCode_Example/Pods-LRCountryCode_Example.release.xcconfig"; sourceTree = "<group>"; };
 		AEE4D7DF338D609F9625AED7 /* Pods_LRCountryCode_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LRCountryCode_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8FBB7EC24C5FB3D4E7304CE /* Pods_LRCountryCode_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LRCountryCode_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C3B2A58FA06D92170C70BCA7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C3B2A58FA06D92170C70BCA7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +77,6 @@
 				0A6E890606EAA252AB14D196 /* Pods-LRCountryCode_Tests.debug.xcconfig */,
 				6781E590558931D40C476447 /* Pods-LRCountryCode_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

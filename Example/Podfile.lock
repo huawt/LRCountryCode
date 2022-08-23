@@ -1,0 +1,16 @@
+PODS:
+  - LRCountryCode (0.1.0)
+
+DEPENDENCIES:
+  - LRCountryCode (from `../`)
+
+EXTERNAL SOURCES:
+  LRCountryCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LRCountryCode: 12159511f41fcf2f455bcee11cdc43e260c09615
+
+PODFILE CHECKSUM: eee768740d3696af6b37ee3816e3771a247026a6
+
+COCOAPODS: 1.11.3

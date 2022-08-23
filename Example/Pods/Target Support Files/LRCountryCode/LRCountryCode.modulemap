@@ -1,0 +1,6 @@
+framework module LRCountryCode {
+  umbrella header "LRCountryCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

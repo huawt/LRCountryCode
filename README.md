@@ -1,6 +1,6 @@
 # LRCountryCode
 
-[![CI Status](https://img.shields.io/travis/huawentao/LRCountryCode.svg?style=flat)](https://travis-ci.org/huawentao/LRCountryCode)
+[![CI Status](https://img.shields.io/travis/huawt/LRCountryCode.svg?style=flat)](https://travis-ci.org/huawt/LRCountryCode)
 [![Version](https://img.shields.io/cocoapods/v/LRCountryCode.svg?style=flat)](https://cocoapods.org/pods/LRCountryCode)
 [![License](https://img.shields.io/cocoapods/l/LRCountryCode.svg?style=flat)](https://cocoapods.org/pods/LRCountryCode)
 [![Platform](https://img.shields.io/cocoapods/p/LRCountryCode.svg?style=flat)](https://cocoapods.org/pods/LRCountryCode)
@@ -22,7 +22,7 @@ pod 'LRCountryCode'
 
 ## Author
 
-huawentao, huawentao@cmsweety.com
+huawt, ghost263sky@163.com
 
 ## License
 
